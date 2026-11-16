@@ -18,7 +18,7 @@ export function Footer({ lang, d }: { lang: Locale; d: Dict }) {
   ];
   return (
     <footer className="bg-ink pb-24 text-cream md:pb-0">
-      <div className="mx-auto grid max-w-7xl gap-12 px-6 py-16 md:grid-cols-2 md:px-10 md:py-20 lg:grid-cols-[1.3fr_1fr_1fr_1.1fr]">
+      <div className="mx-auto grid max-w-7xl gap-12 overflow-hidden px-6 py-16 md:grid-cols-2 md:px-10 md:py-20 lg:grid-cols-[1.3fr_1fr_1fr_1.1fr]">
         <div>
           <Logo light />
           <p className="mt-6 max-w-xs text-[0.9375rem] leading-relaxed text-cream/75">{d.footer.tagline}</p>

@@ -44,9 +44,9 @@ export function EclairMark({ className = "h-6 w-auto" }: { className?: string })
 export function Logo({ compact = false, light = false, className = "" }: { compact?: boolean; light?: boolean; className?: string }) {
   return (
     <span className={`flex items-center gap-2.5 leading-none ${className}`} translate="no">
-      <EpiMark className={`${compact ? "hidden h-9 sm:block md:h-10" : "h-14"} w-auto ${light ? "text-gold" : "text-caramel"}`} strokeWidth={compact ? 2 : 1.6} />
+      <EpiMark className={`${compact ? "hidden h-9 sm:block md:h-10" : "h-11 sm:h-14"} w-auto ${light ? "text-gold" : "text-caramel"}`} strokeWidth={compact ? 2 : 1.6} />
       <span className="flex flex-col items-center">
-        <span className={`caps whitespace-nowrap ${compact ? "text-[0.92rem] tracking-[0.12em] md:text-[1.12rem] md:tracking-[0.16em]" : "text-[1.45rem]"}`}>L&apos;Artisan des Gourmands</span>
+        <span className={`caps whitespace-nowrap ${compact ? "text-[0.92rem] tracking-[0.12em] md:text-[1.12rem] md:tracking-[0.16em]" : "text-[1.1rem] tracking-[0.1em] sm:text-[1.45rem] sm:tracking-[0.16em]"}`}>L&apos;Artisan des Gourmands</span>
         <span className={`mt-1.5 whitespace-nowrap font-[family-name:var(--font-jost)] font-normal tracking-[0.22em] uppercase ${light ? "text-cream/75" : "text-caramel-ink"} ${compact ? "text-[0.5rem] md:text-[0.56rem]" : "text-[0.66rem]"}`}>Boulangerie · Pâtisserie · Paris 15</span>
       </span>
     </span>
