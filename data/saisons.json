@@ -1,0 +1,9 @@
+{
+  "_doc": "Produits de saison (section Commandes spéciales). Une saison s'affiche jusqu'à sa date de fin (to), puis disparaît toute seule ; « from » sert à afficher « dès le … » si elle n'a pas commencé. image : chemin dans public/media, ou null (emplacement vide élégant tant que la photo manque). Textes : locales/*.json → seasons.items.<id>.",
+  "items": [
+    { "id": "fetes", "from": "2026-12-01", "to": "2026-12-31", "image": null },
+    { "id": "rois", "from": "2027-01-02", "to": "2027-01-31", "image": null },
+    { "id": "fetes", "from": "2027-12-01", "to": "2027-12-31", "image": null },
+    { "id": "rois", "from": "2028-01-02", "to": "2028-01-31", "image": null }
+  ]
+}

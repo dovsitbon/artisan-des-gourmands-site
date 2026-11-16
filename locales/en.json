@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "title": "Bakery and pastry shop in Paris 15, rue de la Convention | L'Artisan des Gourmands",
+    "description": "Bakery and pastry shop at 60 rue de la Convention, Paris 15: best chocolate éclair in Île-de-France 2025, croissants, baguettes, cakes to order. Closed Wednesdays.",
+    "ogAlt": "Six éclairs from L'Artisan des Gourmands in their box, next to the bakery's name"
+  },
+  "nav": {
+    "skip": "Skip to content",
+    "menu": "Menu",
+    "close": "Close menu",
+    "home": "L'Artisan des Gourmands, home",
+    "patisseries": "Pastries",
+    "eclairs": "Éclairs",
+    "pains": "Bread and viennoiseries",
+    "order": "Order",
+    "infos": "Visit",
+    "carte": "Menu",
+    "orderCta": "Order a cake",
+    "call": "Call",
+    "route": "Directions",
+    "lang": "Language",
+    "facebook": "L'Artisan des Gourmands on Facebook",
+    "instagram": "L'Artisan des Gourmands on Instagram",
+    "shortcuts": "Shortcuts"
+  },
+  "intro": {
+    "skip": "Skip"
+  },
+  "announce": {
+    "close": "Close the banner"
+  },
+  "placeholder": {
+    "photo": "Photo coming soon"
+  },
+  "status": {
+    "open": "Open now",
+    "closed": "Closed right now",
+    "until": "until {time}",
+    "opens": "opens {day} at {time}",
+    "today": "today",
+    "tomorrow": "tomorrow"
+  },
+  "rating": {
+    "value": "{value}/5 on Google",
+    "count": "over {count} reviews",
+    "note": "Rating checked on {date}"
+  },
+  "hero": {
+    "eyebrow": "Bakery · Pastry shop · Rue de la Convention",
+    "title": "The éclair is our signature",
+    "sub": "Best chocolate éclair in the Île-de-France region, 2025. And every morning, croissants, baguettes and pastries made right here in the 15th.",
+    "ctaOrder": "Order a cake",
+    "ctaPatisseries": "See our pastries"
+  },
+  "tiles": {
+    "title": "What we make",
+    "items": {
+      "eclairs": "Éclairs",
+      "patisseries": "Pastries",
+      "entremets": "Cakes to share",
+      "viennoiseries": "Viennoiseries",
+      "pains": "Bread and baguettes",
+      "salon": "Tea room"
+    }
+  },
+  "services": {
+    "title": "The bakery in four points",
+    "items": {
+      "fresh": {
+        "title": "Made here every morning",
+        "text": "Bread, viennoiseries and pastries come out of our own oven."
+      },
+      "order": {
+        "title": "Cakes to order",
+        "text": "Birthdays, parties, croquembouches: 48 hours ahead."
+      },
+      "salon": {
+        "title": "A small tea room",
+        "text": "A few tables inside and on the terrace, for a coffee and an éclair."
+      },
+      "open": {
+        "title": "Open 6 days a week",
+        "text": "From 7 am. Closed on Wednesdays."
+      }
+    }
+  },
+  "blocks": {
+    "eclairs": {
+      "eyebrow": "Our signature",
+      "title": "An award-winning éclair, and the whole family",
+      "text": "Well-baked choux pastry, a generous filling, a glossy glaze. In 2025, our chocolate éclair was named the best in the Île-de-France region. Coffee, vanilla and salted caramel sit beside it in the window, and other flavours come and go.",
+      "cta": "See the éclairs",
+      "award": "Best chocolate éclair in Île-de-France, 2025"
+    },
+    "cakes": {
+      "eyebrow": "To order",
+      "title": "The cake for your celebration",
+      "text": "Birthday, christening, farewell drinks: tell us how many servings, the message and the pick-up time. Layered cakes, saint-honoré, fruit tarts to share, croquembouche, and the galette des rois in January.",
+      "cta": "Order"
+    },
+    "salon": {
+      "eyebrow": "Tea room corner",
+      "title": "Take your time, have a seat",
+      "text": "A few tables inside, and the red chairs out on the terrace along rue de la Convention. A cappuccino, a slice of tart, and the 15th going by.",
+      "cta": "Directions"
+    }
+  },
+  "special": {
+    "eyebrow": "Special orders",
+    "title": "For the big occasions",
+    "intro": "Order online or by phone, at least 48 hours ahead. For a croquembouche or a large quantity, let us know a week before.",
+    "items": {
+      "anniversaire": {
+        "title": "Birthday cakes",
+        "text": "From 4 to 30 servings, with the message of your choice."
+      },
+      "entremets": {
+        "title": "Layered cakes and saint-honoré",
+        "text": "Our window pastries in large sizes, to share."
+      },
+      "pieceMontee": {
+        "title": "Croquembouches",
+        "text": "Filled choux and caramel, for a christening, a communion or a wedding."
+      },
+      "galette": {
+        "title": "Galettes des rois",
+        "text": "In January, to order or in the shop. Tell us how many servings."
+      },
+      "bureaux": {
+        "title": "Office platters",
+        "text": "Mini viennoiseries, éclairs, pastries: for your meetings and team breakfasts."
+      }
+    },
+    "cta": "Order a cake",
+    "ctaPro": "Ask for a platter"
+  },
+  "seasons": {
+    "eyebrow": "In season",
+    "now": "Right now",
+    "until": "until {date}",
+    "from": "From {date}",
+    "order": "Order",
+    "items": {
+      "fetes": {
+        "title": "The festive season",
+        "text": "Layered cakes and cakes to share for Christmas and New Year's Eve. Order early: the last dates go fast."
+      },
+      "rois": {
+        "title": "The galette des rois",
+        "text": "All-butter puff pastry and almond cream, with its charm and paper crown. Tell us how many servings."
+      }
+    }
+  },
+  "reviews": {
+    "eyebrow": "Reviews",
+    "title": "What our customers say",
+    "intro": "More than nine hundred customers have reviewed us on Google. What comes up most: the éclairs, the croissants and the baguette.",
+    "link": "Read the reviews on Google"
+  },
+  "infos": {
+    "eyebrow": "Visit",
+    "title": "Coming to the shop",
+    "address": "Address",
+    "access": "Getting here",
+    "accessText": "Between Javel and Boucicaut. Boucicaut metro (line 8) is about a 5-minute walk; Charles Michels and Javel–André Citroën (line 10, RER C) about 7 minutes.",
+    "phone": "Phone",
+    "hours": "Opening hours",
+    "route": "Directions",
+    "mapTitle": "Map to L'Artisan des Gourmands, 60 rue de la Convention",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ],
+    "closed": "Closed",
+    "follow": "Follow us"
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Good to know",
+    "items": [
+      {
+        "q": "How far ahead should I order a cake?",
+        "a": "At least 48 hours before pick-up. For a croquembouche, a large number of servings or an office platter, let us know a week before. In a hurry? Call us on 01 45 78 14 10, we can often work something out."
+      },
+      {
+        "q": "Which days are you open?",
+        "a": "Every day except Wednesday. Monday and Thursday to Saturday from 7 am to 8 pm, Tuesday and Sunday from 7 am to 7 pm."
+      },
+      {
+        "q": "How can I check allergens?",
+        "a": "The labels in the window list the main allergens (gluten, milk, egg, nuts…). Ask us in the shop, and mention any allergy in your order: we will tell you what is possible. Everything is made in the same kitchen, so we cannot guarantee the absence of traces."
+      },
+      {
+        "q": "Do you make galettes des rois?",
+        "a": "Yes, in January, in the shop and to order. Choose the number of servings and the pick-up day in the order form."
+      },
+      {
+        "q": "Do you do platters for offices?",
+        "a": "Yes: mini viennoiseries, viennoiseries, éclairs and pastries, for a breakfast or a meeting. Tell us the date, the number of people and what you would like, and we will come back to you with a proposal."
+      },
+      {
+        "q": "How do I pay for my order?",
+        "a": "In the shop, when you pick it up. Nothing is charged online."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Neighbourhood bakery and pastry shop on rue de la Convention. The éclairs, the bread and the viennoiseries are made here.",
+    "legal": "Legal notice",
+    "rights": "All rights reserved.",
+    "nav": "Site map",
+    "hours": "Opening hours",
+    "contact": "Contact",
+    "seo": "Pastry shop in Paris 15",
+    "seo2": "Birthday cake in Paris 15"
+  },
+  "carte": {
+    "eyebrow": "The menu",
+    "title": "What's waiting in the window",
+    "intro": "Prices are the shop prices, taken from our labels. The window changes with the days and the seasons, so some items may be missing.",
+    "tabsLabel": "Menu sections",
+    "tabs": {
+      "eclairs": "Éclairs",
+      "patisseries": "Pastries",
+      "entremets": "Cakes",
+      "viennoiseries": "Viennoiseries",
+      "pains": "Bread",
+      "salon": "Tea room"
+    },
+    "from": "from",
+    "perKg": "per kg",
+    "perPiece": "each",
+    "priceShop": "Price in the shop",
+    "priceQuote": "Price depends on size",
+    "add": "Add",
+    "addLabel": "Add to my order: {name}",
+    "added": "Added to your order",
+    "viewOrder": "View my order",
+    "tags": {
+      "award": "Award 2025",
+      "seasonal": "In January",
+      "moment": "Some days"
+    },
+    "orderNote": "Items with “Add” are ordered ahead. Everything else is waiting in the window, no booking needed.",
+    "toOrder": "Place an order"
+  },
+  "products": {
+    "eclairChocolat": {
+      "name": "Chocolate éclair",
+      "desc": "Our award-winning éclair: chocolate cream, glossy glaze."
+    },
+    "boiteEclairs": {
+      "name": "Box of éclairs",
+      "desc": "Six assorted éclairs, chosen by you or by us."
+    },
+    "eclairCafe": {
+      "name": "Coffee éclair",
+      "desc": "Coffee cream, coffee glaze and a coffee bean."
+    },
+    "eclairVanille": {
+      "name": "Vanilla éclair",
+      "desc": "Vanilla pastry cream, white glaze."
+    },
+    "eclairCaramel": {
+      "name": "Salted caramel éclair",
+      "desc": "Caramel cream with a touch of salt."
+    },
+    "eclairSaintHonore": {
+      "name": "Saint-honoré éclair",
+      "desc": "Caramelised mini choux and whipped cream on top."
+    },
+    "eclairFruitsRouges": {
+      "name": "Red berry éclair",
+      "desc": "Whipped cream, strawberries and fresh berries."
+    },
+    "eclairPistache": {
+      "name": "Pistachio éclair",
+      "desc": "Pistachio cream, green glaze."
+    },
+    "tarteFraises": {
+      "name": "Strawberry tart",
+      "desc": "Shortcrust, vanilla cream, whole strawberries."
+    },
+    "tarteCitron": {
+      "name": "Lemon tart",
+      "desc": "Tangy lemon cream, a slice of lime."
+    },
+    "tarteFramboises": {
+      "name": "Raspberry tart",
+      "desc": "Fresh raspberries packed on a light cream."
+    },
+    "tropezienne": {
+      "name": "Tropézienne",
+      "desc": "Pearl-sugar brioche, light orange-blossom cream."
+    },
+    "bourbon": {
+      "name": "Le Bourbon",
+      "desc": "Thin layers of sponge, cream and chocolate, opera-style."
+    },
+    "alpes": {
+      "name": "Les Alpes",
+      "desc": "Red berry mousse, vanilla centre, fresh raspberries."
+    },
+    "chaineAlaska": {
+      "name": "La Chaîne d'Alaska",
+      "desc": "Apple compote and maple mousse on a sponge base."
+    },
+    "saintHonore": {
+      "name": "Saint-honoré",
+      "desc": "Puff pastry, caramelised choux, whipped cream."
+    },
+    "opera": {
+      "name": "Opéra",
+      "desc": "Coffee sponge, ganache, chocolate glaze."
+    },
+    "flan": {
+      "name": "Flan pâtissier",
+      "desc": "Set vanilla custard in a crisp crust."
+    },
+    "gateauAnniversaire": {
+      "name": "Birthday cake",
+      "desc": "One of our layered cakes, with the message of your choice."
+    },
+    "saintHonoreAPartager": {
+      "name": "Saint-honoré to share",
+      "desc": "6 to 12 servings, caramelised choux and whipped cream."
+    },
+    "tarteAPartager": {
+      "name": "Fruit tart to share",
+      "desc": "Seasonal fruit on shortcrust, 6 to 8 servings."
+    },
+    "flanEntier": {
+      "name": "Whole flan pâtissier",
+      "desc": "Our window flan in a large size, 6 to 10 servings."
+    },
+    "pieceMontee": {
+      "name": "Croquembouche",
+      "desc": "Filled choux and caramel, for a christening or a wedding."
+    },
+    "galette": {
+      "name": "Galette des rois",
+      "desc": "Almond cream, butter puff pastry, charm and crown."
+    },
+    "croissant": {
+      "name": "Butter croissant",
+      "desc": "Butter puff pastry, crisp and golden."
+    },
+    "painChocolat": {
+      "name": "Pain au chocolat",
+      "desc": "Two chocolate sticks, butter puff pastry."
+    },
+    "painChocoPraline": {
+      "name": "Chocolate praline pastry",
+      "desc": "Cocoa dough, praline centre, crushed hazelnuts."
+    },
+    "painRaisins": {
+      "name": "Pain aux raisins",
+      "desc": "Pastry cream and raisins, in a swirl."
+    },
+    "painSuisse": {
+      "name": "Pain suisse",
+      "desc": "Pastry cream and chocolate chips."
+    },
+    "kouignAmann": {
+      "name": "Kouign-amann",
+      "desc": "Butter, caramelised sugar, a soft centre."
+    },
+    "crocFeuillete": {
+      "name": "Fleur de sel puff crunch",
+      "desc": "Caramelised puff pastry, a pinch of sea salt."
+    },
+    "palmier": {
+      "name": "Palmier",
+      "desc": "Caramelised puff pastry, large size."
+    },
+    "briocheSucre": {
+      "name": "Sugar brioche",
+      "desc": "Soft brioche with pearl sugar."
+    },
+    "briocheChocolat": {
+      "name": "Chocolate chip brioche",
+      "desc": "Soft brioche and chocolate chips."
+    },
+    "briocheNature": {
+      "name": "Plain brioche",
+      "desc": "The simple brioche, egg-washed and golden."
+    },
+    "viennoiseChocolat": {
+      "name": "Chocolate chip viennoise",
+      "desc": "Soft Vienna bread with chocolate chips."
+    },
+    "demiViennoise": {
+      "name": "Half plain viennoise",
+      "desc": "Soft Vienna bread, for an afternoon snack."
+    },
+    "grandeViennoise": {
+      "name": "Large plain viennoise",
+      "desc": "Vienna bread in a large size, to share."
+    },
+    "grosseBrioche": {
+      "name": "Large all-butter brioche",
+      "desc": "For a slow Sunday breakfast."
+    },
+    "plateauMinis": {
+      "name": "Mini viennoiserie platter",
+      "desc": "Mini croissants and mini pains au chocolat, for offices and meetings."
+    },
+    "baguetteTradition": {
+      "name": "Baguette tradition",
+      "desc": "French tradition flour, crackling crust, open crumb."
+    },
+    "diablotine": {
+      "name": "Diablotine",
+      "desc": "Our well-baked baguette: dark crust, soft crumb."
+    },
+    "painLevain": {
+      "name": "Sourdough bread",
+      "desc": "Natural leaven, sold by weight."
+    },
+    "painGraines": {
+      "name": "Seeded bread",
+      "desc": "Dense crumb and toasted seeds."
+    },
+    "painViking": {
+      "name": "Viking bread",
+      "desc": "Multigrain bread with seeds."
+    },
+    "painDuMoment": {
+      "name": "Bread of the moment",
+      "desc": "A changing recipe, sold by weight."
+    },
+    "espresso": {
+      "name": "Coffee",
+      "desc": "Espresso, long black or noisette."
+    },
+    "cappuccino": {
+      "name": "Cappuccino",
+      "desc": "Milk foam and a dusting of cocoa."
+    },
+    "chocolatChaud": {
+      "name": "Hot chocolate",
+      "desc": "For winter, with a viennoiserie."
+    },
+    "the": {
+      "name": "Tea",
+      "desc": "Black, green or herbal."
+    },
+    "sandwichs": {
+      "name": "Sandwiches of the day",
+      "desc": "On our baguette, filled in the morning."
+    }
+  },
+  "cart": {
+    "title": "Your selection",
+    "empty": "Add a cake from the menu, or choose it below.",
+    "remove": "Remove"
+  },
+  "order": {
+    "eyebrow": "Order",
+    "title": "Order a cake",
+    "intro": "Choose your cake, the number of servings and the pick-up time. We will call you back to confirm. You pay in the shop.",
+    "productsTitle": "Your cake",
+    "product": "Cake",
+    "parts": "Servings",
+    "partsValue": "{n} servings",
+    "pieces": "Quantity",
+    "inscription": "Message on the cake",
+    "inscriptionPh": "E.g. Happy birthday Lea",
+    "inscriptionHint": "Optional, 40 characters max.",
+    "detail": "Details",
+    "otherPh": "Describe the cake you would like",
+    "boxPh": "E.g. 3 chocolate, 2 coffee, 1 vanilla",
+    "addLine": "Add another cake",
+    "removeLine": "Remove this cake",
+    "other": "Something else (describe it)",
+    "pickupTitle": "Pick-up in the shop",
+    "lead": "At the earliest {hours} hours after your order, on a day we are open (closed on Wednesdays).",
+    "date": "Pick-up date",
+    "time": "Pick-up time",
+    "timeHint": "Choose the date first.",
+    "contactTitle": "Your details",
+    "name": "Name",
+    "phone": "Phone",
+    "email": "Email",
+    "emailHint": "To receive a summary of your order.",
+    "message": "Notes",
+    "messagePh": "Allergies, decoration, candles…",
+    "required": "required",
+    "submit": "Send my order",
+    "sending": "Sending…",
+    "payNote": "Nothing to pay now: you pay in the shop when you pick it up.",
+    "callTitle": "Rather call?",
+    "callText": "We also take orders at the counter and by phone, during opening hours.",
+    "whatsapp": "Also send by WhatsApp",
+    "errors": {
+      "lines": "Choose at least one cake (and describe it if you picked “Something else”).",
+      "date": "Choose a pick-up date.",
+      "time": "Choose a pick-up time.",
+      "name": "Please enter your name.",
+      "phone": "Please enter a valid phone number.",
+      "email": "This email address doesn't look right.",
+      "send": "The order could not be sent. Please call us and we will take it by phone."
+    },
+    "done": {
+      "title": "Thank you, your order has been sent",
+      "text": "We will call you back to confirm it. Nothing is final until we have confirmed.",
+      "pendingTitle": "One step left: give us a call",
+      "pendingText": "Your order is ready, but automatic sending is not switched on yet. Please call us to confirm it; here is the summary.",
+      "mail": "A summary has been sent to {email}.",
+      "again": "Place another order"
+    },
+    "mail": {
+      "subject": "New cake order",
+      "title": "New order",
+      "lines": "Order",
+      "pickup": "Pick-up",
+      "name": "Name",
+      "phone": "Phone",
+      "email": "Email",
+      "message": "Notes",
+      "lang": "Customer language",
+      "inscription": "message",
+      "confirmSubject": "Your order at L'Artisan des Gourmands",
+      "confirmIntro": "Hello {name},\n\nThank you for your order. Here it is:",
+      "confirmOutro": "We will call you back to confirm it. You pay in the shop when you pick it up.\n\nL'Artisan des Gourmands\n60 rue de la Convention, 75015 Paris\n+33 1 45 78 14 10"
+    }
+  },
+  "pro": {
+    "eyebrow": "Businesses",
+    "title": "Office platters",
+    "intro": "Team breakfast, meeting, farewell drinks: tell us what you need and we will come back to you with a proposal.",
+    "date": "Date",
+    "people": "Number of people",
+    "wants": "What you would like",
+    "wantsItems": {
+      "minis": "Mini viennoiseries",
+      "viennoiseries": "Viennoiseries",
+      "eclairs": "Éclairs",
+      "patisseries": "Individual pastries",
+      "sandwichs": "Sandwiches",
+      "gateau": "A large cake"
+    },
+    "company": "Company",
+    "submit": "Send my request",
+    "errors": {
+      "date": "Choose a date.",
+      "people": "Enter the number of people.",
+      "wants": "Tick at least one option."
+    },
+    "done": {
+      "title": "Thank you, your request has been sent",
+      "text": "We will come back to you shortly with a proposal."
+    },
+    "mail": {
+      "subject": "Office platter request",
+      "title": "Business request",
+      "people": "People",
+      "wants": "Wishes",
+      "company": "Company",
+      "confirmSubject": "Your platter request at L'Artisan des Gourmands",
+      "confirmIntro": "Hello {name},\n\nThank you for your request. Here it is:",
+      "confirmOutro": "We will come back to you shortly with a proposal.\n\nL'Artisan des Gourmands\n60 rue de la Convention, 75015 Paris\n+33 1 45 78 14 10"
+    }
+  },
+  "pages": {
+    "eclairs": {
+      "slug": "eclairs",
+      "metaTitle": "Éclairs in Paris 15: best chocolate éclair in Île-de-France 2025 | L'Artisan des Gourmands",
+      "metaDescription": "Our chocolate éclair was named the best in the Île-de-France region in 2025. Coffee, vanilla, salted caramel and flavours of the day, rue de la Convention, Paris 15.",
+      "eyebrow": "Éclairs · Paris 15",
+      "title": "The éclair is our signature",
+      "lead": "It's what comes up most in your reviews, and what we are proudest of.",
+      "awardTitle": "Best chocolate éclair in Île-de-France, 2025",
+      "awardText": "On 14 October 2025, the Fédération des pâtissiers d'Île-de-France announced the results of its regional chocolate éclair competition. First place: Filipe Fernandes, of L'Artisan des Gourmands, 60 rue de la Convention.",
+      "awardSource": "Read the Sortir à Paris article (in French)",
+      "howTitle": "What makes a good éclair",
+      "how": [
+        {
+          "title": "The choux pastry",
+          "text": "Baked all the way through, golden, holding its shape in your hand."
+        },
+        {
+          "title": "The filling",
+          "text": "Generous from end to end, never too sweet."
+        },
+        {
+          "title": "The glaze",
+          "text": "Thin and glossy, applied by hand, never sticky."
+        }
+      ],
+      "flavorsTitle": "Flavours",
+      "flavorsAll": "All year round",
+      "flavorsAllList": "Chocolate, coffee, vanilla, salted caramel.",
+      "flavorsMoment": "Some days",
+      "flavorsMomentList": "Saint-honoré, red berries, lemon, pistachio, and other ideas that pass through the window.",
+      "folieTitle": "The day of the “crazy éclairs”",
+      "folieText": "One Sunday in March, the shop's chalkboard announced fifteen flavours at once: speculoos, pear, rose, pecan, Baileys, popcorn, blueberry, tea… A day apart, and a good picture of how we approach the éclair.",
+      "boxTitle": "A box of éclairs for the table",
+      "boxText": "Six assorted éclairs, chosen flavour by flavour or left to us. Order 48 hours ahead.",
+      "boxCta": "Order a box",
+      "cardsTitle": "In the window"
+    },
+    "carte": {
+      "slug": "menu",
+      "metaTitle": "Menu and prices | L'Artisan des Gourmands, bakery Paris 15",
+      "metaDescription": "Éclairs, tarts, cakes, croissants, baguette tradition and tea room: the menu and prices of L'Artisan des Gourmands, rue de la Convention, Paris 15."
+    },
+    "commander": {
+      "slug": "order",
+      "metaTitle": "Order a cake in Paris 15 | L'Artisan des Gourmands",
+      "metaDescription": "Birthday cake, layered cake, croquembouche, galette des rois, office platters: pick-up at 60 rue de la Convention, Paris 15. Pay in the shop."
+    },
+    "patisserie": {
+      "slug": "pastry-shop-paris-15",
+      "metaTitle": "Pastry shop in Paris 15, rue de la Convention | L'Artisan des Gourmands",
+      "metaDescription": "Artisan pastry shop in the 15th, between Javel and Boucicaut: award-winning éclairs, fruit tarts, tropézienne, saint-honoré, flan, cakes to order. Open 6 days a week.",
+      "eyebrow": "Pastry shop · Paris 15",
+      "title": "A neighbourhood pastry shop on rue de la Convention",
+      "lead": "Between Javel and Boucicaut, a window full of tarts, éclairs and layered cakes, made in our own kitchen.",
+      "sections": [
+        {
+          "title": "What you'll find in the window",
+          "text": "Strawberry, lemon and raspberry tarts, tropézienne, Le Bourbon (opera-style), saint-honoré, flan pâtissier, and individual cakes such as Les Alpes and La Chaîne d'Alaska. And of course the éclairs, including the chocolate one that won in 2025."
+        },
+        {
+          "title": "To take away or to enjoy here",
+          "text": "Take your pastries home, or sit down in our tea room corner, inside or on the terrace, with a coffee."
+        },
+        {
+          "title": "Large sizes, to order",
+          "text": "Most of our pastries come in a version to share. Order them 48 hours ahead, with the number of servings you need."
+        }
+      ],
+      "cta": "See the menu"
+    },
+    "anniversaire": {
+      "slug": "birthday-cake-paris-15",
+      "metaTitle": "Birthday cake to order in Paris 15 | L'Artisan des Gourmands",
+      "metaDescription": "Birthday cakes to order in Paris 15: layered cakes, saint-honoré, fruit tarts, from 4 to 30 servings, with a message. Pick-up on rue de la Convention, 48 hours ahead.",
+      "eyebrow": "Cakes to order · Paris 15",
+      "title": "Your birthday cake, from rue de la Convention",
+      "lead": "A layered cake made here, with the number of servings you need and the right name on top.",
+      "steps": [
+        {
+          "title": "Choose the cake",
+          "text": "Layered cake, saint-honoré, fruit tart, or an idea of your own: describe it."
+        },
+        {
+          "title": "Servings and message",
+          "text": "From 4 to 30 servings. A message of your choice on a plaque."
+        },
+        {
+          "title": "Pick-up day and time",
+          "text": "At least 48 hours after ordering, on a day we are open. We call you back to confirm."
+        }
+      ],
+      "cta": "Order my cake",
+      "note": "Allergies, candles, special decoration: mention it in the notes and we'll talk it through on the phone."
+    },
+    "legal": {
+      "slug": "legal",
+      "metaTitle": "Legal notice | L'Artisan des Gourmands",
+      "title": "Legal notice",
+      "editor": "Publisher",
+      "host": "Hosting",
+      "data": "Personal data",
+      "dataText": "Information sent through the forms (name, phone, email, order) is used only to process your order or request. It is never sold or used for advertising. You can ask for it to be deleted by calling the shop.",
+      "credits": "Photos",
+      "creditsText": "Photos of the shop and its products, published on its Google listing.",
+      "toFill": "to be completed",
+      "siret": "SIRET",
+      "director": "Publication director"
+    }
+  },
+  "alt": {
+    "boite-six-eclairs": "Six éclairs in a box: saint-honoré, chocolate, red berries and cream, coffee, lemon and a green-glazed éclair",
+    "six-eclairs-assortis": "A box of six assorted éclairs seen from above",
+    "vitrine-eclairs-tartelettes": "The window: chocolate éclairs, strawberry tarts, tropéziennes and lemon tarts",
+    "rangee-eclairs-chocolat": "A row of chocolate éclairs in the window, next to lemon and strawberry tarts",
+    "eclair-chocolat-coupe": "A bitten chocolate éclair showing the choux pastry and the cream",
+    "ardoise-eclairs-de-folie": "The shop's chalkboard announcing the crazy éclairs day and its fifteen flavours",
+    "tartelettes-fraises-tropezienne": "Le Bourbon, strawberry tarts, tropéziennes and chocolate éclairs in the window",
+    "vitrine-patisseries": "The pastry window: fruit tarts, éclairs and individual cakes",
+    "entremets-individuels": "Pink and green individual cakes and vanilla éclairs in the window",
+    "tartes-a-partager": "Large fruit tarts on the top shelf of the window",
+    "vitrine-viennoiseries": "The viennoiserie window: brioches, pains aux raisins, kouign-amann and croissants",
+    "croissants-et-viennoises": "Butter croissants and chocolate chip viennoises in the window",
+    "pain-choco-praline": "A close-up of a chocolate praline pastry topped with crushed hazelnuts",
+    "rayon-des-pains": "The bread shelves behind the counter, under the Boulanger de France sign",
+    "tarte-et-cappuccino": "A slice of tart and a cappuccino served in the tea room",
+    "eclair-croissant-brioche-en-terrasse": "A chocolate éclair, a croissant and a brioche served on the terrace",
+    "facade-rue-de-la-convention": "The front of L'Artisan des Gourmands, with red awnings and a terrace, on rue de la Convention"
+  }
+}

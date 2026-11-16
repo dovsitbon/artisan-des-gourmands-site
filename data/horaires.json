@@ -1,0 +1,14 @@
+{
+  "_doc": "Horaires d'ouverture (heure de Paris), relevés sur la fiche Google le 2026-11-16, à faire confirmer par la boutique. Jours : 1 = lundi … 7 = dimanche ; [] = fermé. exceptions : fermetures ou horaires spéciaux datés (AAAA-MM-JJ), « closed »: true ou des créneaux. Ex. : { \"date\": \"2026-12-25\", \"closed\": true }.",
+  "timezone": "Europe/Paris",
+  "week": {
+    "1": [["07:00", "20:00"]],
+    "2": [["07:00", "19:00"]],
+    "3": [],
+    "4": [["07:00", "20:00"]],
+    "5": [["07:00", "20:00"]],
+    "6": [["07:00", "20:00"]],
+    "7": [["07:00", "19:00"]]
+  },
+  "exceptions": []
+}

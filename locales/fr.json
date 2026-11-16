@@ -1,0 +1,699 @@
+{
+  "meta": {
+    "title": "Boulangerie-pâtisserie à Paris 15, rue de la Convention | L'Artisan des Gourmands",
+    "description": "Boulangerie-pâtisserie, 60 rue de la Convention (Paris 15) : meilleur éclair au chocolat d'Île-de-France 2025, croissants, baguette, gâteaux sur commande. Fermé le mercredi.",
+    "ogAlt": "Six éclairs de L'Artisan des Gourmands dans leur boîte, à côté du nom de la boulangerie"
+  },
+  "nav": {
+    "skip": "Aller au contenu",
+    "menu": "Menu",
+    "close": "Fermer le menu",
+    "home": "L'Artisan des Gourmands, accueil",
+    "patisseries": "Pâtisseries",
+    "eclairs": "Éclairs",
+    "pains": "Pains et viennoiseries",
+    "order": "Commander",
+    "infos": "Infos",
+    "carte": "La carte",
+    "orderCta": "Commander un gâteau",
+    "call": "Appeler",
+    "route": "Itinéraire",
+    "lang": "Langue",
+    "facebook": "L'Artisan des Gourmands sur Facebook",
+    "instagram": "L'Artisan des Gourmands sur Instagram",
+    "shortcuts": "Raccourcis"
+  },
+  "intro": {
+    "skip": "Passer"
+  },
+  "announce": {
+    "close": "Fermer le bandeau"
+  },
+  "placeholder": {
+    "photo": "Photo à venir"
+  },
+  "status": {
+    "open": "Ouvert maintenant",
+    "closed": "Fermé en ce moment",
+    "until": "jusqu'à {time}",
+    "opens": "ouvre {day} à {time}",
+    "today": "aujourd'hui",
+    "tomorrow": "demain"
+  },
+  "rating": {
+    "value": "{value}/5 sur Google",
+    "count": "plus de {count} avis",
+    "note": "Note relevée le {date}"
+  },
+  "hero": {
+    "eyebrow": "Boulangerie · Pâtisserie · Rue de la Convention",
+    "title": "L'éclair, notre signature",
+    "sub": "Meilleur éclair au chocolat d'Île-de-France 2025. Et chaque matin, des croissants, des baguettes et des pâtisseries faits ici, dans le 15e.",
+    "ctaOrder": "Commander un gâteau",
+    "ctaPatisseries": "Voir nos pâtisseries"
+  },
+  "tiles": {
+    "title": "Nos rayons",
+    "items": {
+      "eclairs": "Éclairs",
+      "patisseries": "Pâtisseries",
+      "entremets": "Entremets et gâteaux",
+      "viennoiseries": "Viennoiseries",
+      "pains": "Pains et baguettes",
+      "salon": "Salon de thé"
+    }
+  },
+  "services": {
+    "title": "La maison en quatre points",
+    "items": {
+      "fresh": {
+        "title": "Fait maison chaque matin",
+        "text": "Pains, viennoiseries et pâtisseries sortent de notre fournil."
+      },
+      "order": {
+        "title": "Gâteaux sur commande",
+        "text": "Anniversaires, fêtes, pièces montées : 48 h à l'avance."
+      },
+      "salon": {
+        "title": "Coin salon de thé",
+        "text": "Quelques tables, dedans et en terrasse, pour un café et un éclair."
+      },
+      "open": {
+        "title": "Ouvert 6 jours sur 7",
+        "text": "Dès 7 h. Fermé le mercredi."
+      }
+    }
+  },
+  "blocks": {
+    "eclairs": {
+      "eyebrow": "Notre signature",
+      "title": "Un éclair primé, et tous ses cousins",
+      "text": "Pâte à choux bien cuite, crème généreuse, glaçage brillant. En 2025, notre éclair au chocolat a été élu meilleur d'Île-de-France. Le café, la vanille et le caramel beurre salé l'accompagnent en vitrine, et d'autres parfums passent selon les jours.",
+      "cta": "Voir les éclairs",
+      "award": "Meilleur éclair au chocolat d'Île-de-France 2025"
+    },
+    "cakes": {
+      "eyebrow": "Sur commande",
+      "title": "Le gâteau de votre fête",
+      "text": "Anniversaire, baptême, départ en retraite : dites-nous le nombre de parts, l'inscription et l'heure de retrait. Entremets, saint-honoré, tarte à partager, pièce montée, et la galette des rois en janvier.",
+      "cta": "Commander"
+    },
+    "salon": {
+      "eyebrow": "Coin salon de thé",
+      "title": "Prenez le temps, asseyez-vous",
+      "text": "Quelques tables à l'intérieur, et les chaises rouges en terrasse sur la rue de la Convention. Un cappuccino, une part de tarte, et le 15e qui passe.",
+      "cta": "Itinéraire"
+    }
+  },
+  "special": {
+    "eyebrow": "Commandes spéciales",
+    "title": "Pour les grandes occasions",
+    "intro": "Commandez en ligne ou par téléphone, au moins 48 h à l'avance. Pour une pièce montée ou une grande quantité, prévenez-nous une semaine avant.",
+    "items": {
+      "anniversaire": {
+        "title": "Gâteaux d'anniversaire",
+        "text": "De 4 à 30 parts, avec l'inscription de votre choix."
+      },
+      "entremets": {
+        "title": "Entremets et saint-honoré",
+        "text": "Les grands formats de nos pâtisseries de vitrine, à partager."
+      },
+      "pieceMontee": {
+        "title": "Pièces montées",
+        "text": "Choux garnis et caramel, pour un baptême, une communion, un mariage."
+      },
+      "galette": {
+        "title": "Galettes des rois",
+        "text": "En janvier, sur commande ou en boutique. Précisez le nombre de parts."
+      },
+      "bureaux": {
+        "title": "Plateaux pour les bureaux",
+        "text": "Mini-viennoiseries, éclairs, pâtisseries : pour vos réunions et vos petits-déjeuners."
+      }
+    },
+    "cta": "Commander un gâteau",
+    "ctaPro": "Demander un plateau"
+  },
+  "seasons": {
+    "eyebrow": "De saison",
+    "now": "En ce moment",
+    "until": "jusqu'au {date}",
+    "from": "Dès le {date}",
+    "order": "Commander",
+    "items": {
+      "fetes": {
+        "title": "Les fêtes de fin d'année",
+        "text": "Entremets et gâteaux à partager pour Noël et le réveillon. Commandez tôt, les dernières dates partent vite."
+      },
+      "rois": {
+        "title": "La galette des rois",
+        "text": "Feuilletage pur beurre et frangipane, avec sa fève et sa couronne. Précisez le nombre de parts."
+      }
+    }
+  },
+  "reviews": {
+    "eyebrow": "Avis",
+    "title": "Ce qu'en disent les gourmands",
+    "intro": "Plus de neuf cents clients ont laissé leur avis sur Google. Ce qui revient le plus souvent : les éclairs, les croissants et la baguette.",
+    "link": "Lire les avis sur Google"
+  },
+  "infos": {
+    "eyebrow": "Infos pratiques",
+    "title": "Venir à la boutique",
+    "address": "Adresse",
+    "access": "Accès",
+    "accessText": "Entre Javel et Boucicaut. Métro Boucicaut (ligne 8) à environ 5 minutes à pied ; Charles Michels et Javel–André Citroën (ligne 10, RER C) à 7 minutes environ.",
+    "phone": "Téléphone",
+    "hours": "Horaires",
+    "route": "Itinéraire",
+    "mapTitle": "Plan d'accès à L'Artisan des Gourmands, 60 rue de la Convention",
+    "days": [
+      "Lundi",
+      "Mardi",
+      "Mercredi",
+      "Jeudi",
+      "Vendredi",
+      "Samedi",
+      "Dimanche"
+    ],
+    "closed": "Fermé",
+    "follow": "Suivez-nous"
+  },
+  "faq": {
+    "eyebrow": "Questions fréquentes",
+    "title": "Bon à savoir",
+    "items": [
+      {
+        "q": "Combien de temps à l'avance faut-il commander un gâteau ?",
+        "a": "Au moins 48 heures avant le retrait. Pour une pièce montée, un grand nombre de parts ou un plateau pour une entreprise, prévenez-nous une semaine avant. En cas d'urgence, appelez-nous au 01 45 78 14 10 : on trouve souvent une solution."
+      },
+      {
+        "q": "Quels jours êtes-vous ouverts ?",
+        "a": "Tous les jours sauf le mercredi. Le lundi et du jeudi au samedi de 7 h à 20 h, le mardi et le dimanche de 7 h à 19 h."
+      },
+      {
+        "q": "Comment connaître les allergènes ?",
+        "a": "Les étiquettes de la vitrine indiquent les principaux allergènes (gluten, lait, œuf, fruits à coque…). Demandez-nous en boutique, et signalez toute allergie dans votre commande : nous vous dirons ce qui est possible. Nos produits sont faits dans un même atelier, nous ne pouvons pas garantir l'absence de traces."
+      },
+      {
+        "q": "Faites-vous des galettes des rois ?",
+        "a": "Oui, en janvier, en boutique et sur commande. Indiquez le nombre de parts et le jour de retrait dans le formulaire de commande."
+      },
+      {
+        "q": "Proposez-vous des plateaux pour les bureaux ?",
+        "a": "Oui : mini-viennoiseries, viennoiseries, éclairs et pâtisseries, pour un petit-déjeuner ou une réunion. Dites-nous la date, le nombre de personnes et ce que vous souhaitez ; nous revenons vers vous avec une proposition."
+      },
+      {
+        "q": "Comment payer ma commande ?",
+        "a": "Sur place, au moment du retrait. Rien n'est demandé en ligne."
+      }
+    ]
+  },
+  "footer": {
+    "tagline": "Boulangerie-pâtisserie de quartier, rue de la Convention. Les éclairs, le pain et les viennoiseries sont faits ici.",
+    "legal": "Mentions légales",
+    "rights": "Tous droits réservés.",
+    "nav": "Plan du site",
+    "hours": "Horaires",
+    "contact": "Contact",
+    "seo": "Pâtisserie à Paris 15",
+    "seo2": "Gâteau d'anniversaire Paris 15"
+  },
+  "carte": {
+    "eyebrow": "La carte",
+    "title": "Ce qui vous attend en vitrine",
+    "intro": "Les prix sont ceux de la boutique, relevés sur nos étiquettes. La vitrine change selon les jours et les saisons : certains produits peuvent manquer.",
+    "tabsLabel": "Rayons de la carte",
+    "tabs": {
+      "eclairs": "Éclairs",
+      "patisseries": "Pâtisseries",
+      "entremets": "Entremets",
+      "viennoiseries": "Viennoiseries",
+      "pains": "Pains",
+      "salon": "Salon de thé"
+    },
+    "from": "à partir de",
+    "perKg": "le kg",
+    "perPiece": "la pièce",
+    "priceShop": "Prix en boutique",
+    "priceQuote": "Prix selon la taille",
+    "add": "Ajouter",
+    "addLabel": "Ajouter à ma commande : {name}",
+    "added": "Ajouté à votre commande",
+    "viewOrder": "Voir ma commande",
+    "tags": {
+      "award": "Primé 2025",
+      "seasonal": "En janvier",
+      "moment": "Selon les jours"
+    },
+    "orderNote": "Les produits avec « Ajouter » se commandent à l'avance. Le reste vous attend en vitrine, sans réservation.",
+    "toOrder": "Passer commande"
+  },
+  "products": {
+    "eclairChocolat": {
+      "name": "Éclair au chocolat",
+      "desc": "Notre éclair primé : crème au chocolat, glaçage brillant."
+    },
+    "boiteEclairs": {
+      "name": "Boîte d'éclairs",
+      "desc": "Six éclairs assortis, à choisir ou à nous laisser choisir."
+    },
+    "eclairCafe": {
+      "name": "Éclair au café",
+      "desc": "Crème au café, glaçage café et son grain."
+    },
+    "eclairVanille": {
+      "name": "Éclair à la vanille",
+      "desc": "Crème pâtissière vanille, glaçage blanc."
+    },
+    "eclairCaramel": {
+      "name": "Éclair caramel beurre salé",
+      "desc": "Crème au caramel, une pointe de sel."
+    },
+    "eclairSaintHonore": {
+      "name": "Éclair saint-honoré",
+      "desc": "Petits choux caramélisés et chantilly sur le dessus."
+    },
+    "eclairFruitsRouges": {
+      "name": "Éclair aux fruits rouges",
+      "desc": "Chantilly, fraises et fruits rouges frais."
+    },
+    "eclairPistache": {
+      "name": "Éclair à la pistache",
+      "desc": "Crème à la pistache, glaçage vert."
+    },
+    "tarteFraises": {
+      "name": "Tarte aux fraises",
+      "desc": "Pâte sablée, crème vanille, fraises entières."
+    },
+    "tarteCitron": {
+      "name": "Tarte au citron",
+      "desc": "Crème de citron acidulée, rondelle de citron vert."
+    },
+    "tarteFramboises": {
+      "name": "Tarte aux framboises",
+      "desc": "Framboises fraîches serrées sur une crème légère."
+    },
+    "tropezienne": {
+      "name": "Tropézienne",
+      "desc": "Brioche au sucre perlé, crème légère à la fleur d'oranger."
+    },
+    "bourbon": {
+      "name": "Le Bourbon",
+      "desc": "Fines couches de biscuit, crème et chocolat, façon opéra."
+    },
+    "alpes": {
+      "name": "Les Alpes",
+      "desc": "Mousse aux fruits rouges, cœur vanille, framboises fraîches."
+    },
+    "chaineAlaska": {
+      "name": "La Chaîne d'Alaska",
+      "desc": "Compotée de pomme et mousse à l'érable, sur un biscuit."
+    },
+    "saintHonore": {
+      "name": "Saint-honoré",
+      "desc": "Feuilletage, choux caramélisés, chantilly."
+    },
+    "opera": {
+      "name": "Opéra",
+      "desc": "Biscuit au café, ganache, glaçage chocolat."
+    },
+    "flan": {
+      "name": "Flan pâtissier",
+      "desc": "Crème à la vanille, bien prise, pâte croustillante."
+    },
+    "gateauAnniversaire": {
+      "name": "Gâteau d'anniversaire",
+      "desc": "Un entremets de la maison, avec l'inscription de votre choix."
+    },
+    "saintHonoreAPartager": {
+      "name": "Saint-honoré à partager",
+      "desc": "De 6 à 12 parts, choux caramélisés et chantilly."
+    },
+    "tarteAPartager": {
+      "name": "Tarte aux fruits à partager",
+      "desc": "Fruits de saison sur pâte sablée, de 6 à 8 parts."
+    },
+    "flanEntier": {
+      "name": "Flan pâtissier entier",
+      "desc": "Le flan de la vitrine, en grand, de 6 à 10 parts."
+    },
+    "pieceMontee": {
+      "name": "Pièce montée",
+      "desc": "Choux garnis et caramel, pour un baptême ou un mariage."
+    },
+    "galette": {
+      "name": "Galette des rois",
+      "desc": "Frangipane, feuilletage au beurre, fève et couronne."
+    },
+    "croissant": {
+      "name": "Croissant au beurre",
+      "desc": "Feuilletage au beurre, croustillant et doré."
+    },
+    "painChocolat": {
+      "name": "Pain au chocolat",
+      "desc": "Deux barres de chocolat, feuilletage au beurre."
+    },
+    "painChocoPraline": {
+      "name": "Pain choco-praliné",
+      "desc": "Pâte au cacao, cœur praliné, noisettes concassées."
+    },
+    "painRaisins": {
+      "name": "Pain aux raisins",
+      "desc": "Crème pâtissière et raisins, en spirale."
+    },
+    "painSuisse": {
+      "name": "Pain suisse",
+      "desc": "Crème pâtissière et pépites de chocolat."
+    },
+    "kouignAmann": {
+      "name": "Kouign-amann",
+      "desc": "Beurre, sucre caramélisé, cœur fondant."
+    },
+    "crocFeuillete": {
+      "name": "Croc-feuilleté à la fleur de sel",
+      "desc": "Feuilletage caramélisé, une pincée de fleur de sel."
+    },
+    "palmier": {
+      "name": "Palmier",
+      "desc": "Feuilletage caramélisé, en grand format."
+    },
+    "briocheSucre": {
+      "name": "Brioche au sucre",
+      "desc": "Brioche moelleuse, sucre perlé."
+    },
+    "briocheChocolat": {
+      "name": "Brioche au chocolat",
+      "desc": "Brioche moelleuse et pépites de chocolat."
+    },
+    "briocheNature": {
+      "name": "Brioche nature",
+      "desc": "La brioche toute simple, dorée à l'œuf."
+    },
+    "viennoiseChocolat": {
+      "name": "Viennoise au chocolat",
+      "desc": "Pain viennois et pépites de chocolat."
+    },
+    "demiViennoise": {
+      "name": "Demi-viennoise nature",
+      "desc": "Pain viennois tendre, pour le goûter."
+    },
+    "grandeViennoise": {
+      "name": "Grande viennoise nature",
+      "desc": "Le pain viennois en grand, à partager."
+    },
+    "grosseBrioche": {
+      "name": "Grosse brioche pur beurre",
+      "desc": "Pour le petit-déjeuner du dimanche."
+    },
+    "plateauMinis": {
+      "name": "Plateau de mini-viennoiseries",
+      "desc": "Mini-croissants et mini-pains au chocolat, pour les bureaux et les réunions."
+    },
+    "baguetteTradition": {
+      "name": "Baguette tradition",
+      "desc": "Farine de tradition française, croûte craquante, mie alvéolée."
+    },
+    "diablotine": {
+      "name": "Diablotine",
+      "desc": "Notre baguette bien cuite, croûte foncée, mie moelleuse."
+    },
+    "painLevain": {
+      "name": "Pain au levain",
+      "desc": "Au levain naturel, à la coupe."
+    },
+    "painGraines": {
+      "name": "Pain aux graines",
+      "desc": "Mie dense et graines toastées."
+    },
+    "painViking": {
+      "name": "Pain viking",
+      "desc": "Pain aux céréales et graines."
+    },
+    "painDuMoment": {
+      "name": "Pain du moment",
+      "desc": "Une recette qui change, à la coupe."
+    },
+    "espresso": {
+      "name": "Café",
+      "desc": "Expresso, allongé ou noisette."
+    },
+    "cappuccino": {
+      "name": "Cappuccino",
+      "desc": "Mousse de lait et pincée de cacao."
+    },
+    "chocolatChaud": {
+      "name": "Chocolat chaud",
+      "desc": "Pour l'hiver, avec une viennoiserie."
+    },
+    "the": {
+      "name": "Thé",
+      "desc": "Thé noir, vert ou infusion."
+    },
+    "sandwichs": {
+      "name": "Sandwichs du jour",
+      "desc": "Sur notre baguette, garnis le matin."
+    }
+  },
+  "cart": {
+    "title": "Votre sélection",
+    "empty": "Ajoutez un gâteau depuis la carte, ou choisissez-le ci-dessous.",
+    "remove": "Retirer"
+  },
+  "order": {
+    "eyebrow": "Commander",
+    "title": "Commander un gâteau",
+    "intro": "Choisissez votre gâteau, le nombre de parts et l'heure de retrait. Nous vous rappelons pour confirmer. Le paiement se fait en boutique.",
+    "productsTitle": "Votre gâteau",
+    "product": "Gâteau souhaité",
+    "parts": "Nombre de parts",
+    "partsValue": "{n} parts",
+    "pieces": "Quantité",
+    "inscription": "Inscription",
+    "inscriptionPh": "Ex. : Joyeux anniversaire Léa",
+    "inscriptionHint": "Facultatif, 40 caractères au plus.",
+    "detail": "Précisions",
+    "otherPh": "Décrivez le gâteau souhaité",
+    "boxPh": "Ex. : 3 chocolat, 2 café, 1 vanille",
+    "addLine": "Ajouter un autre gâteau",
+    "removeLine": "Retirer ce gâteau",
+    "other": "Autre (à préciser)",
+    "pickupTitle": "Retrait en boutique",
+    "lead": "Au plus tôt {hours} h après votre commande, un jour d'ouverture (fermé le mercredi).",
+    "date": "Date de retrait",
+    "time": "Heure de retrait",
+    "timeHint": "Choisissez d'abord la date.",
+    "contactTitle": "Vos coordonnées",
+    "name": "Nom",
+    "phone": "Téléphone",
+    "email": "E-mail",
+    "emailHint": "Pour recevoir le récapitulatif de votre commande.",
+    "message": "Remarques",
+    "messagePh": "Allergies, décoration, bougies…",
+    "required": "obligatoire",
+    "submit": "Envoyer ma commande",
+    "sending": "Envoi en cours…",
+    "payNote": "Rien à payer maintenant : vous réglez sur place, au retrait.",
+    "callTitle": "Plutôt par téléphone ?",
+    "callText": "Nous prenons aussi les commandes au comptoir et au téléphone, aux heures d'ouverture.",
+    "whatsapp": "Envoyer aussi par WhatsApp",
+    "errors": {
+      "lines": "Choisissez au moins un gâteau (et décrivez-le si vous avez choisi « Autre »).",
+      "date": "Choisissez une date de retrait.",
+      "time": "Choisissez une heure de retrait.",
+      "name": "Indiquez votre nom.",
+      "phone": "Indiquez un numéro de téléphone valide.",
+      "email": "Cette adresse e-mail ne semble pas valide.",
+      "send": "La commande n'a pas pu partir. Appelez-nous, nous la prendrons au téléphone."
+    },
+    "done": {
+      "title": "Merci, votre commande est envoyée",
+      "text": "Nous vous rappelons pour la confirmer. Rien n'est validé tant que nous ne l'avons pas confirmée.",
+      "pendingTitle": "Il reste une étape : appelez-nous",
+      "pendingText": "Votre commande est prête, mais l'envoi automatique n'est pas encore activé. Appelez-nous pour la confirmer, voici le récapitulatif.",
+      "mail": "Un récapitulatif vous a été envoyé à {email}.",
+      "again": "Faire une autre commande"
+    },
+    "mail": {
+      "subject": "Nouvelle commande de gâteau",
+      "title": "Nouvelle commande",
+      "lines": "Commande",
+      "pickup": "Retrait",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "message": "Remarques",
+      "lang": "Langue du client",
+      "inscription": "inscription",
+      "confirmSubject": "Votre commande chez L'Artisan des Gourmands",
+      "confirmIntro": "Bonjour {name},\n\nMerci pour votre commande. La voici :",
+      "confirmOutro": "Nous vous rappelons pour la confirmer. Le paiement se fait en boutique, au retrait.\n\nL'Artisan des Gourmands\n60 rue de la Convention, 75015 Paris\n01 45 78 14 10"
+    }
+  },
+  "pro": {
+    "eyebrow": "Entreprises",
+    "title": "Plateaux pour les bureaux",
+    "intro": "Petit-déjeuner d'équipe, réunion, pot de départ : dites-nous ce qu'il vous faut, nous vous répondons avec une proposition.",
+    "date": "Date souhaitée",
+    "people": "Nombre de personnes",
+    "wants": "Ce que vous souhaitez",
+    "wantsItems": {
+      "minis": "Mini-viennoiseries",
+      "viennoiseries": "Viennoiseries",
+      "eclairs": "Éclairs",
+      "patisseries": "Pâtisseries individuelles",
+      "sandwichs": "Sandwichs",
+      "gateau": "Un grand gâteau"
+    },
+    "company": "Entreprise",
+    "submit": "Envoyer ma demande",
+    "errors": {
+      "date": "Choisissez une date.",
+      "people": "Indiquez le nombre de personnes.",
+      "wants": "Cochez au moins une envie."
+    },
+    "done": {
+      "title": "Merci, votre demande est envoyée",
+      "text": "Nous revenons vers vous rapidement avec une proposition."
+    },
+    "mail": {
+      "subject": "Demande de plateau entreprise",
+      "title": "Demande entreprise",
+      "people": "Personnes",
+      "wants": "Souhaits",
+      "company": "Entreprise",
+      "confirmSubject": "Votre demande de plateau chez L'Artisan des Gourmands",
+      "confirmIntro": "Bonjour {name},\n\nMerci pour votre demande. La voici :",
+      "confirmOutro": "Nous revenons vers vous rapidement avec une proposition.\n\nL'Artisan des Gourmands\n60 rue de la Convention, 75015 Paris\n01 45 78 14 10"
+    }
+  },
+  "pages": {
+    "eclairs": {
+      "slug": "eclairs",
+      "metaTitle": "Éclairs à Paris 15 : meilleur éclair au chocolat d'IDF 2025 | L'Artisan des Gourmands",
+      "metaDescription": "Notre éclair au chocolat a été élu meilleur d'Île-de-France en 2025. Café, vanille, caramel beurre salé et parfums du moment, rue de la Convention, Paris 15.",
+      "eyebrow": "Éclairs · Paris 15",
+      "title": "L'éclair, notre signature",
+      "lead": "C'est le produit qui revient le plus dans vos avis, et celui dont nous sommes le plus fiers.",
+      "awardTitle": "Meilleur éclair au chocolat d'Île-de-France 2025",
+      "awardText": "Le 14 octobre 2025, la Fédération des pâtissiers d'Île-de-France a rendu les résultats de son concours régional de l'éclair au chocolat. Première place : Filipe Fernandes, de L'Artisan des Gourmands, 60 rue de la Convention.",
+      "awardSource": "Lire l'article de Sortir à Paris",
+      "howTitle": "Ce qui fait un bon éclair",
+      "how": [
+        {
+          "title": "La pâte à choux",
+          "text": "Cuite jusqu'au bout, dorée, qui tient dans la main sans s'affaisser."
+        },
+        {
+          "title": "La crème",
+          "text": "Généreuse, d'un bout à l'autre de l'éclair, jamais trop sucrée."
+        },
+        {
+          "title": "Le glaçage",
+          "text": "Brillant et fin, posé à la main, qui ne colle pas aux doigts."
+        }
+      ],
+      "flavorsTitle": "Les parfums",
+      "flavorsAll": "Toute l'année",
+      "flavorsAllList": "Chocolat, café, vanille, caramel beurre salé.",
+      "flavorsMoment": "Selon les jours",
+      "flavorsMomentList": "Saint-honoré, fruits rouges, citron, pistache, et d'autres idées qui passent en vitrine.",
+      "folieTitle": "Le jour des « éclairs de folie »",
+      "folieText": "Un dimanche de mars, l'ardoise de la boutique annonçait quinze parfums d'un coup : spéculoos, poire, rose, pécan, Baileys, pop-corn, myrtille, thé… Une journée à part, qui dit bien notre façon de travailler l'éclair.",
+      "boxTitle": "Une boîte d'éclairs pour la table",
+      "boxText": "Six éclairs assortis, à choisir parfum par parfum ou à nous laisser composer. À commander 48 h à l'avance.",
+      "boxCta": "Commander une boîte",
+      "cardsTitle": "En vitrine"
+    },
+    "carte": {
+      "slug": "carte",
+      "metaTitle": "Carte et prix | L'Artisan des Gourmands, boulangerie Paris 15",
+      "metaDescription": "Éclairs, tartes, entremets, croissants, baguette tradition et salon de thé : la carte et les prix de L'Artisan des Gourmands, rue de la Convention, Paris 15."
+    },
+    "commander": {
+      "slug": "commander",
+      "metaTitle": "Commander un gâteau à Paris 15 | L'Artisan des Gourmands",
+      "metaDescription": "Gâteau d'anniversaire, entremets, pièce montée, galette des rois, plateaux pour les bureaux : retrait 60 rue de la Convention, Paris 15. Paiement sur place."
+    },
+    "patisserie": {
+      "slug": "patisserie-paris-15",
+      "metaTitle": "Pâtisserie à Paris 15, rue de la Convention | L'Artisan des Gourmands",
+      "metaDescription": "Pâtisserie artisanale dans le 15e, entre Javel et Boucicaut : éclairs primés, tartes aux fruits, tropézienne, saint-honoré, flan, entremets sur commande. Ouvert 6 jours sur 7.",
+      "eyebrow": "Pâtisserie · Paris 15",
+      "title": "Une pâtisserie de quartier, rue de la Convention",
+      "lead": "Entre Javel et Boucicaut, une vitrine pleine de tartes, d'éclairs et d'entremets, préparés dans notre atelier.",
+      "sections": [
+        {
+          "title": "Ce que vous trouverez en vitrine",
+          "text": "Tartes aux fraises, au citron et aux framboises, tropézienne, Le Bourbon façon opéra, saint-honoré, flan pâtissier, et nos entremets individuels comme Les Alpes ou La Chaîne d'Alaska. Et bien sûr les éclairs, dont celui au chocolat, primé en 2025."
+        },
+        {
+          "title": "Pour emporter ou sur place",
+          "text": "Vous pouvez emporter vos pâtisseries ou vous asseoir dans notre coin salon de thé, à l'intérieur ou en terrasse, avec un café."
+        },
+        {
+          "title": "En grand format, sur commande",
+          "text": "La plupart de nos pâtisseries existent en version à partager. Commandez-les 48 h à l'avance, avec le nombre de parts qu'il vous faut."
+        }
+      ],
+      "cta": "Voir la carte"
+    },
+    "anniversaire": {
+      "slug": "gateau-anniversaire-paris-15",
+      "metaTitle": "Gâteau d'anniversaire à Paris 15 sur commande | L'Artisan des Gourmands",
+      "metaDescription": "Gâteau d'anniversaire sur commande à Paris 15 : entremets, saint-honoré, tarte à partager, de 4 à 30 parts, avec inscription. Retrait rue de la Convention, 48 h à l'avance.",
+      "eyebrow": "Gâteaux sur commande · Paris 15",
+      "title": "Votre gâteau d'anniversaire, rue de la Convention",
+      "lead": "Un entremets fait chez nous, avec le nombre de parts qu'il vous faut et le prénom à l'honneur.",
+      "steps": [
+        {
+          "title": "Choisissez le gâteau",
+          "text": "Entremets, saint-honoré, tarte aux fruits, ou une idée à vous : décrivez-la."
+        },
+        {
+          "title": "Le nombre de parts et l'inscription",
+          "text": "De 4 à 30 parts. Une inscription au choix, sur une plaquette."
+        },
+        {
+          "title": "Le jour et l'heure de retrait",
+          "text": "Au moins 48 h après la commande, un jour d'ouverture. Nous vous rappelons pour confirmer."
+        }
+      ],
+      "cta": "Commander mon gâteau",
+      "note": "Allergies, bougies, décoration particulière : précisez-le dans les remarques, nous en parlerons au téléphone."
+    },
+    "legal": {
+      "slug": "mentions-legales",
+      "metaTitle": "Mentions légales | L'Artisan des Gourmands",
+      "title": "Mentions légales",
+      "editor": "Éditeur du site",
+      "host": "Hébergement",
+      "data": "Données personnelles",
+      "dataText": "Les informations envoyées par les formulaires (nom, téléphone, e-mail, commande) servent uniquement à traiter votre commande ou votre demande. Elles ne sont ni revendues ni utilisées à des fins publicitaires. Vous pouvez demander leur suppression en appelant la boutique.",
+      "credits": "Photos",
+      "creditsText": "Photos de la boutique et de ses produits, publiées sur sa fiche Google.",
+      "toFill": "à compléter",
+      "siret": "SIRET",
+      "director": "Responsable de la publication"
+    }
+  },
+  "alt": {
+    "boite-six-eclairs": "Six éclairs dans une boîte : saint-honoré, chocolat, fruits rouges et chantilly, café, citron et un éclair au glaçage vert",
+    "six-eclairs-assortis": "Une boîte de six éclairs assortis vue de dessus",
+    "vitrine-eclairs-tartelettes": "La vitrine : éclairs au chocolat, tartes aux fraises, tropéziennes et tartes au citron",
+    "rangee-eclairs-chocolat": "Une rangée d'éclairs au chocolat en vitrine, à côté des tartes au citron et aux fraises",
+    "eclair-chocolat-coupe": "Un éclair au chocolat croqué, qui laisse voir la pâte à choux et la crème",
+    "ardoise-eclairs-de-folie": "L'ardoise de la boutique annonçant la journée des éclairs de folie et ses quinze parfums",
+    "tartelettes-fraises-tropezienne": "Le Bourbon, tartes aux fraises, tropéziennes et éclairs au chocolat en vitrine",
+    "vitrine-patisseries": "La vitrine des pâtisseries : tartes aux fruits, éclairs et entremets individuels",
+    "entremets-individuels": "Entremets individuels roses et verts et éclairs à la vanille en vitrine",
+    "tartes-a-partager": "Grandes tartes aux fruits posées en haut de la vitrine",
+    "vitrine-viennoiseries": "La vitrine des viennoiseries : brioches, pains aux raisins, kouign-amann et croissants",
+    "croissants-et-viennoises": "Croissants au beurre et viennoises au chocolat dans la vitrine",
+    "pain-choco-praline": "Un pain choco-praliné aux noisettes concassées, vu de près",
+    "rayon-des-pains": "Le rayon des pains derrière le comptoir, sous l'enseigne Boulanger de France",
+    "tarte-et-cappuccino": "Une part de tarte et un cappuccino servis au salon de thé",
+    "eclair-croissant-brioche-en-terrasse": "Un éclair au chocolat, un croissant et une brioche servis en terrasse",
+    "facade-rue-de-la-convention": "La façade de L'Artisan des Gourmands, ses stores rouges et sa terrasse, rue de la Convention"
+  }
+}

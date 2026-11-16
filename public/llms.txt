@@ -1,0 +1,20 @@
+# L'Artisan des Gourmands
+
+> Boulangerie-pâtisserie de quartier au 60 rue de la Convention, 75015 Paris (entre Javel et Boucicaut). Son pâtissier Filipe Fernandes a remporté le concours du meilleur éclair au chocolat d'Île-de-France 2025 (Fédération des pâtissiers d'Île-de-France, résultats du 14 octobre 2025). Note Google : 4,4/5 sur plus de 900 avis (relevé du 16 novembre 2026).
+
+- Téléphone : 01 45 78 14 10 (+33 1 45 78 14 10)
+- Horaires : lundi 7 h – 20 h, mardi 7 h – 19 h, mercredi fermé, jeudi à samedi 7 h – 20 h, dimanche 7 h – 19 h
+- Métro : Boucicaut (ligne 8) ; Charles Michels et Javel–André Citroën (ligne 10, RER C)
+- Gamme de prix : 1 à 10 €
+- Coin salon de thé, terrasse
+- Gâteaux sur commande 48 h à l'avance : gâteaux d'anniversaire, entremets, saint-honoré, pièces montées, galettes des rois (janvier), plateaux pour les bureaux. Paiement sur place.
+
+## Pages
+
+- [Accueil](https://artisan-des-gourmands.vercel.app/fr)
+- [Les éclairs](https://artisan-des-gourmands.vercel.app/fr/eclairs)
+- [La carte et les prix](https://artisan-des-gourmands.vercel.app/fr/carte)
+- [Commander un gâteau](https://artisan-des-gourmands.vercel.app/fr/commander)
+- [Pâtisserie à Paris 15](https://artisan-des-gourmands.vercel.app/fr/patisserie-paris-15)
+- [Gâteau d'anniversaire Paris 15](https://artisan-des-gourmands.vercel.app/fr/gateau-anniversaire-paris-15)
+- [English version](https://artisan-des-gourmands.vercel.app/en)

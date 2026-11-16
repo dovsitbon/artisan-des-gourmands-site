@@ -1,0 +1,26 @@
+{
+  "name": "L'Artisan des Gourmands",
+  "fullName": "L'Artisan des Gourmands – Boulangerie Pâtisserie Paris 15",
+  "url": "https://artisan-des-gourmands.vercel.app",
+  "phone": "01 45 78 14 10",
+  "phoneIntl": "+33145781410",
+  "whatsapp": "",
+  "email": "",
+  "address": { "street": "60 rue de la Convention", "postalCode": "75015", "city": "Paris", "region": "Île-de-France", "country": "FR" },
+  "geo": { "lat": 48.8430296, "lng": 2.283285 },
+  "mapsUrl": "https://www.google.com/maps/place/L%27Artisan+Des+Gourmands/@48.8430296,2.283285,17z/data=!4m6!3m5!1s0x47e6700e970128d9:0x45f412b79df24302!8m2!3d48.8430296!4d2.283285",
+  "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=L%27Artisan+des+Gourmands%2C+60+rue+de+la+Convention%2C+75015+Paris",
+  "mapsEmbed": "https://www.google.com/maps?q=L%27Artisan+des+Gourmands,+60+rue+de+la+Convention,+75015+Paris&z=16&output=embed",
+  "instagram": "",
+  "instagramHandle": "",
+  "facebook": "https://www.facebook.com/fefpg/",
+  "rating": { "value": 4.4, "count": 914, "source": "Google", "checked": "2026-11-16" },
+  "award": {
+    "year": 2025,
+    "chef": "Filipe Fernandes",
+    "source": "https://www.sortiraparis.com/actualites/a-paris/articles/285654-ile-de-france-le-meilleur-eclair-au-chocolat-2025-se-trouve-a-paris"
+  },
+  "order": { "leadHours": 48, "maxPerLine": 30 },
+  "payment": { "enabled": false, "provider": "stripe" },
+  "legal": { "company": "", "siret": "", "director": "", "host": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis" }
+}
